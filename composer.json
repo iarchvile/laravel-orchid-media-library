@@ -14,7 +14,7 @@
   "require": {
     "php": "^8.1",
     "ext-json": "*",
-    "manzadey/laravel-orchid-helpers": "^0.6.0-beta",
+    "manzadey/laravel-orchid-helpers": "*",
     "spatie/laravel-medialibrary": "^10.4"
   },
   "require-dev": {
